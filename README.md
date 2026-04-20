@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently pursuing **Engineering**
 
-- 🌱 I’m currently learning **ReactJS and Backend development**
+- 🌱 I’m currently learning **Backend development with Java**
 
 - 📫 How to reach me **kunalkittur23@gmail.com**
 
