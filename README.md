@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Kittur</h1>
 <h3 align="center">A passionate developer and student whose learning and building stuff for fun</h3>
 
-- 🔭 I’m currently pursuing **Engineering**
+- 🔭 I’m a recently graduated **Computer Sci. Engineer**
 
 - 🌱 I’m currently learning **Backend development with Java**
 
