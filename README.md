@@ -3,7 +3,7 @@
 
 - 🔭 I’m a recently graduated **Computer Sci. Engineer**
 
-- 🌱 I’m currently learning **Backend development with Java**
+- 🌱 I’m currently learning **Ai and Backend development**
 
 - 📫 How to reach me **kunalkittur23@gmail.com**
 
